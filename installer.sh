@@ -657,7 +657,7 @@ if [ $? -ne 0 ] ; then
 				config="https://raw.githubusercontent.com/TheThingsNetwork/gateway-conf/master/AU-global_conf.json"
 				;;
 			US915)
-				config="http://lora.com.co/config.json"
+				config="https://raw.githubusercontent.com/TheThingsNetwork/gateway-conf/master/US-global_conf.json"
 				;;
 		esac
 	fi
